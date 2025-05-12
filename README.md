@@ -23,3 +23,7 @@ Inventory management web app with real-time dashboard for small businesses.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF7C00?style=flat&logo=n8n&logoColor=white)
+
+## 📬 Contacto
+📫 **Email**: [tuemail@example.com](mailto:tuemail@example.com)  
+🔗 **LinkedIn**: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
